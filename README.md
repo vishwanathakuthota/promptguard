@@ -14,7 +14,7 @@ PromptGuard is a vulnerability scanning tool that automatically tests prompt inj
 It has ready-to-use rules to steal system prompts or distract the LLM application from it's main purpose.
 
 > [!IMPORTANT]  
-> PromptGuard was initially released in 2022 but completely rewritten in 2025.
+> PromptGuard was a private repo and started writing in 2022 but completely rewritten in 2025, still continues.
 
 
 ## Features
