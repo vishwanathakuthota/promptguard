@@ -167,4 +167,4 @@ Results can be saved in JSON format with details about each test:
 
 ## License
 
-GNU
+GNU GENERAL PUBLIC LICENSE V 3.0
